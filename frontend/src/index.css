@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+*:focus {
+    outline: none !important;
+}
+
+button, a {
+    @apply no-animation
+}
+
+.caret-transparent {
+    caret-color: transparent;
+}
+
+
+
