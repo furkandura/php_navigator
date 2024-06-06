@@ -1,19 +1,22 @@
-# README
+# PHP Navigator
 
-## About
+PHP Navigator is a user-friendly tool developed to manage and publish your PHP projects. It facilitates the management of multiple projects while providing flexibility by supporting different PHP versions.
 
-This is the official Wails React template.
+## Screenshots
+![PHP Navigator Screenshot 3](https://i.ibb.co/9YDkv0G/Ekran-Resmi-2024-06-06-17-55-06.png)
+![PHP Navigator Screenshot 2](https://i.ibb.co/vDtkT1q/Ekran-Resmi-2024-06-06-17-56-24.png)
+![PHP Navigator Screenshot 1](https://i.ibb.co/Nm55bPG/Ekran-Resmi-2024-06-06-17-57-19.png)
+![PHP Navigator Screenshot 3](https://i.ibb.co/sPDGdy4/Ekran-Resmi-2024-06-06-17-58-09.png)
 
-You can configure the project by editing `wails.json`. More information about the project settings can be found
-here: https://wails.io/docs/reference/project-config
+## Features
 
-## Live Development
+- **Easy Installation:** Quickly set up by cloning via Git and using the `wails build -clean` command.
+- **Development Mode:** Start developing right away by running the application without building using the `wails dev` command.
+- **User-Friendly Interface:** Manage your projects easily with a simple and intuitive interface.
+- **Multiple Project Support:** Manage and publish multiple PHP projects simultaneously. Switching between projects is straightforward.
+- **Multiple PHP Version Support:** Use different PHP versions in different projects simultaneously.
+- **Open Source:** PHP Navigator is entirely open source, developed and supported by the community. You can contribute or customize it according to your needs.
 
-To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
-server that will provide very fast hot reload of your frontend changes. If you want to develop in a browser
-and have access to your Go methods, there is also a dev server that runs on http://localhost:34115. Connect
-to this in your browser, and you can call your Go code from devtools.
+## Contribute
 
-## Building
-
-To build a redistributable, production mode package, use `wails build`.
+PHP Navigator is an open source project and welcomes your contributions! You can customize it according to your needs or add new features.
